@@ -24,6 +24,12 @@ namespace WpfApp3
 		{
 			InitializeComponent();
 			// test
+			// test
+		}
+
+		private void dtn_click(object sender, RoutedEventArgs e)
+		{
+
 		}
 	}
 }
